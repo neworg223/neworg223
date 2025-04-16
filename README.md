@@ -23,7 +23,6 @@ I've developed and manage several Telegram channels and bots, reaching a combine
 📫 **Connect with me:**
 *   **Telegram:** [t.me/acceptthyself](https://t.me/acceptthyself)
 *   **Email:** akhroredu@acceptthyself.com
-*   *(Optional: Add LinkedIn or other relevant links here)*
 
 <!--
 💡 Feel free to add more specific technical skills within the comments above or list them separately! (e.g., specific databases, APIs, deployment methods etc.)
